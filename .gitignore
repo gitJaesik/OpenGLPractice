@@ -1,3 +1,6 @@
 **/Debug/**
 **/*.db
 **/.vs/**
+**/glut.dll
+**/giut32.dll
+**/Release/**
